@@ -5,5 +5,5 @@ sudo: false
 before_install:
 
 script:
-  - chmod a+x ./gradlew
+  - chmod +x gradle/wrapper/gradle-wrapper.jar
   - ./gradlew check
