@@ -33,3 +33,6 @@ build
 .project
 .settings
 .vscode
+
+.idea/sonarlint/
+.idea/sonarIssues.xml
