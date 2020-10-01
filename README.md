@@ -1,6 +1,5 @@
 # findanumber
-
-[![Build Status](https://img.shields.io/travis/ChakirArdenne/findanumber/master.svg?style=flat-square)](https://travis-ci.org/ChakirArdenne/findanumber)
+[![Build Status](https://travis-ci.com/AhlemFANTA/findanumber2.svg?branch=master)](https://travis-ci.com/AhlemFANTA/findanumber2)
 
 Affiche 42.
 
